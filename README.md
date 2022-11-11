@@ -8,11 +8,7 @@ Library intended to unify common and repetitive use cases of kafka-streams
 ## Installation
 
 ~~~
-    <dependency>
-       <groupId>com.verisure.vcp</groupId>
-       <artifactId>kstream-prefabs-lib</artifactId>
-       <version>1.1.0</version>
-    </dependency>
+
 ~~~
 
 ## Components
